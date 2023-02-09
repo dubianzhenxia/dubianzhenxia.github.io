@@ -6,6 +6,6 @@
 
 
 
-![](E:\github.io\image\xf.jpg)
+![](/image/xf.jpg)
 
-![](E:\github.io\image\mz.jpg)
+![](/image/mz.jpg)
