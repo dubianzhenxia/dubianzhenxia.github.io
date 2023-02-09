@@ -4,8 +4,6 @@
 
 
 
-
-
-![](/image/xf.jpg)
+<img align='center' src='/image/xf.jpg'>
 
 ![](/image/mz.jpg)
